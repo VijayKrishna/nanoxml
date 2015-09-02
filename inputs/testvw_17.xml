@@ -1,6 +1,0 @@
-<!-- vazzie -->
-<!DOCTYPE FOO SYSTEM "test.dtd" [
-    <!ENTITY % extParamEntity "blah">
-]>
-<FOO>&value;</FOO>
-
